@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-rg",
+  "name": "@rish1508/eslint-config-rg",
   "version": "1.0.0",
   "description": "es lint config for javascript",
   "main": "index.js",

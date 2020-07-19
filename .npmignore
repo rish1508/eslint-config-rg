@@ -1,0 +1,7 @@
+**/.*
+*.iml
+coverage/
+node_modules/
+stories/
+src/
+yarn.lock
